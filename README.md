@@ -69,3 +69,18 @@ For training and testing, your directory structure should look like this
      `└──test`  <br/>
           `├──gt`  <br/>
           `└──hazy` 
+
+
+## Citation
+If you use our work, please consider citing:
+~~~
+@article{cui2025eenet,
+  title={EENet: An effective and efficient network for single image dehazing},
+  author={Cui, Yuning and Wang, Qiang and Li, Chaopeng and Ren, Wenqi and Knoll, Alois},
+  journal={Pattern Recognition},
+  volume={158},
+  pages={111074},
+  year={2025}
+}
+~~~
+
