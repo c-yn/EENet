@@ -1,4 +1,4 @@
-## EENet: An effective and efficient network for single image dehazing
+## EENet: An effective and efficient network for single image dehazing (PR2025)
 
 
 
