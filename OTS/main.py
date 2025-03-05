@@ -50,6 +50,7 @@ if __name__ == '__main__':
     parser.add_argument('--num_worker', type=int, default=8)
     parser.add_argument('--save_freq', type=int, default=1)
     parser.add_argument('--valid_freq', type=int, default=1)
+    parser.add_argument('--resume', type=str, default='')
 
     # Test
     parser.add_argument('--test_model', type=str, default='ots.pkl')
