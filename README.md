@@ -9,6 +9,8 @@
 
 ITS/OTS: [Gdrive](https://drive.google.com/drive/folders/1_uosQNp7rTwGDi-8qsR2pEfIe-QPBnif?usp=sharing)
 
+CSD/Snow100K/SRRS: [百度网盘](https://pan.baidu.com/s/10nHUyP-o6UWug6a1ZVaeRw?pwd=9dym)
+
 If you require models or results for other tasks, please feel free to contact me via issue or email. Thank you.
 
 ### Installation
